@@ -16,4 +16,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Ask to scan on boot -->
+  <string name="ask_scan_title">Scansiona per nuovi media?</string>
+  <string name="ask_scan_text">Clicca per innescare manualmente la scansione dei media</string>
 </resources>
